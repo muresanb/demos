@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="email">E-mail:</string>
+    <string name="phone">Phone Nr:</string>
+    <string name="name">Name:</string>
+    <string name="action_ascending">Sort Ascending</string>
+    <string name="action_descending">Sort Descending</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
